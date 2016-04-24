@@ -63,6 +63,7 @@ public class Array {
             }
         }
 
+        //some change
         System.out.println("Min = " + min);
         System.out.println("Max = " + max);
 
